@@ -1,0 +1,10 @@
+scrapy-redis
+scrapy-splash
+scrapy-proxy-pool
+scrapy-user-agents
+Scrapy<2
+deathbycaptcha
+amazon-page-parser
+elasticsearch
+python-dotenv
+six
